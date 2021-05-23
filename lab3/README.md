@@ -71,6 +71,8 @@
    
 4. Побудувати мінімальне зв’язне дерево для графа G. Вказати його вагу.
 
+    ![photo](https://user-images.githubusercontent.com/48200799/118792511-642ed100-b8a0-11eb-8ba1-09d7c4d6d2ef.png)
+
     ![photo](https://user-images.githubusercontent.com/48298288/119262830-53a29180-bbe5-11eb-9075-41450aeeaa9f.png)
 
    
